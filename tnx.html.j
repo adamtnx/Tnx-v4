@@ -1,0 +1,1 @@
+<style>body{overflow:hidden;background-color:black}#q{font:40px impact;color:white;position:absolute;left:0;right:0;top:43%}</style><title>Hacked by Adam Tnx </title><center><div id=q>Hacked by Adam Tnx<br><br>./Defaced
